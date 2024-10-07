@@ -1,1 +1,1 @@
-function(notes){ return notes + ' - EXTRA FILE LOCAL'; }
+function(notes){ return notes + ' - aLocalAuxFile.js third-party-repo-override'; }

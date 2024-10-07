@@ -1,3 +1,3 @@
 function(salesOrder) {
-  return "My custom notes desde repo third party: "+(salesOrder.notes || "no notes");
+  return "aSharedAuxFile.js third-party-repo-override: "+(salesOrder.notes || "no notes");
 }

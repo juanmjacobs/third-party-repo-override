@@ -28,7 +28,7 @@ function ({ resource }, parse) {
             Math.floor(Math.random() * 99999).toString(),
         }).then((result) => {
           return {
-            result: "Todo ok, customNotes: " + customNotes,
+            result: "run.js third-party-repo-override: " + customNotes,
           };
         });
       });
