@@ -1,4 +1,4 @@
 function nestedFunction(param) {
-	return param + " nestedFunction!";
+	return param + " nestedOverridenFunction!";
 }
 module.exports = { nestedFunction }
