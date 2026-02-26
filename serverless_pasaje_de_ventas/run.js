@@ -10,3 +10,4 @@ async function handler(context) {
    // await ProductecaSdk.createInvoiceIntegration({ integrationId });
     return { result: integrationId };
 }
+module.exports = { handler };
